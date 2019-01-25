@@ -1,0 +1,11 @@
+C:\Users\ukothiralla\source\repos\WindowsAuthentication\WindowsAuthentication\bin\Debug\netcoreapp2.0\WindowsAuthentication.deps.json
+C:\Users\ukothiralla\source\repos\WindowsAuthentication\WindowsAuthentication\bin\Debug\netcoreapp2.0\WindowsAuthentication.runtimeconfig.json
+C:\Users\ukothiralla\source\repos\WindowsAuthentication\WindowsAuthentication\bin\Debug\netcoreapp2.0\WindowsAuthentication.runtimeconfig.dev.json
+C:\Users\ukothiralla\source\repos\WindowsAuthentication\WindowsAuthentication\bin\Debug\netcoreapp2.0\WindowsAuthentication.dll
+C:\Users\ukothiralla\source\repos\WindowsAuthentication\WindowsAuthentication\bin\Debug\netcoreapp2.0\WindowsAuthentication.pdb
+C:\Users\ukothiralla\source\repos\WindowsAuthentication\WindowsAuthentication\obj\Debug\netcoreapp2.0\WindowsAuthentication.csprojResolveAssemblyReference.cache
+C:\Users\ukothiralla\source\repos\WindowsAuthentication\WindowsAuthentication\obj\Debug\netcoreapp2.0\WindowsAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\ukothiralla\source\repos\WindowsAuthentication\WindowsAuthentication\obj\Debug\netcoreapp2.0\WindowsAuthentication.AssemblyInfoInputs.cache
+C:\Users\ukothiralla\source\repos\WindowsAuthentication\WindowsAuthentication\obj\Debug\netcoreapp2.0\WindowsAuthentication.AssemblyInfo.cs
+C:\Users\ukothiralla\source\repos\WindowsAuthentication\WindowsAuthentication\obj\Debug\netcoreapp2.0\WindowsAuthentication.dll
+C:\Users\ukothiralla\source\repos\WindowsAuthentication\WindowsAuthentication\obj\Debug\netcoreapp2.0\WindowsAuthentication.pdb
